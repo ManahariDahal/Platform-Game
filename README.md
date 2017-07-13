@@ -1,2 +1,2 @@
 # Platform-Game
-Sprites of a platform game
+Objects of a platform game
