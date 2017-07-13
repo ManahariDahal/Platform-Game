@@ -1,2 +1,4 @@
 # Platform-Game
-Objects of a platform game
+#GameMaker Language
+
+Raw codes of objects of a platform game in .gml format.
